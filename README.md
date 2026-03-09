@@ -166,6 +166,6 @@ Tenho perfil proativo, visão de produto e compromisso com entregas de qualidade
       align="left" 
       alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodHercules&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodHercules&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
   />
 </p>
