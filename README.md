@@ -1,8 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1146DD,50:0D1117,100:FF8A3D&height=210&section=header&text=Hercules%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20%7C%20UI%2FUX%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=58&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1146DD,50:0D1117,100:FF8A3D&height=220&section=header&text=Hercules%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20%7C%20UI%2FUX%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=58&descSize=15" />
+
+<p align="center">
+  <a href="./README.md">🇧🇷 Português</a> •
+  <a href="./README.en.md">🇺🇸 English</a> •
+  <a href="./README.es.md">🇪🇸 Español</a>
+</p>
 
 <div align="center">
 
 # 👋 Olá, eu sou Hercules de Oliveira
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3300&pause=900&color=1146DD&center=true&vCenter=true&width=950&lines=Desenvolvedor+Full+Stack;Engenharia+de+Software+com+vis%C3%A3o+de+produto;Frontend+%7C+Backend+%7C+Infraestrutura;Automa%C3%A7%C3%A3o+%7C+UI%2FUX+%7C+Solu%C3%A7%C3%B5es+de+neg%C3%B3cio;Construindo+aplica%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis)](https://git.io/typing-svg)
 
 ### Full Stack Developer | Software Engineering | Product Thinking
 
@@ -19,7 +27,7 @@ Atuo unindo **engenharia de software**, **UI/UX**, **arquitetura**, **infraestru
 - 💻 Desenvolvedor Full Stack com visão de produto e foco em soluções reais
 - 🧠 Experiência com frontend, backend, banco de dados, integrações e automações
 - 🎨 Forte atuação em UI/UX, responsividade e interfaces modernas
-- 🏗️ Criação de sistemas internos, SaaS, dashboards e fluxos operacionais
+- 🏗️ Criação de sistemas internos, SaaS, dashboards, portais e fluxos operacionais
 - ⚙️ Experiência com deploy, configuração de ambientes, infraestrutura e automações
 - 📊 Interesse em performance, organização de código, arquitetura e escalabilidade
 - 📍 Brasil
@@ -93,29 +101,23 @@ Atuo unindo **engenharia de software**, **UI/UX**, **arquitetura**, **infraestru
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>🔹 FundarMF</h3>
       <p>Plataforma de workflow para abertura de empresas com portal do cliente, portal interno, OTP, upload de documentos, auditoria, SLA, notificações e gestão operacional.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, NestJS, Prisma, PostgreSQL, Tailwind CSS, pg-boss</p>
-      <p>
-        <a href="https://github.com/GodHercules/FundarMF">Acessar repositório</a>
-      </p>
+      <p><a href="https://github.com/GodHercules/FundarMF">Acessar repositório</a></p>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>🔹 MolecularMatch</h3>
       <p>Aplicação full stack para busca de substâncias por massa molecular usando bases científicas reais como PubChem, ChEBI e HMDB.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, NestJS, MongoDB, APIs externas</p>
-      <p>
-        <a href="https://github.com/GodHercules/MolecularMatch">Acessar repositório</a>
-      </p>
+      <p><a href="https://github.com/GodHercules/MolecularMatch">Acessar repositório</a></p>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>🔹 Portfolio</h3>
       <p>Portfólio profissional com foco em visual premium, responsividade, dark mode, organização moderna e apresentação de projetos.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Framer Motion</p>
-      <p>
-        <a href="https://github.com/GodHercules/portfolio">Acessar repositório</a>
-      </p>
+      <p><a href="https://github.com/GodHercules/portfolio">Acessar repositório</a></p>
     </td>
   </tr>
 </table>
@@ -224,6 +226,9 @@ Atuo unindo **engenharia de software**, **UI/UX**, **arquitetura**, **infraestru
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GodHercules&bg_color=0d1117&color=c9d1d9&line=1146DD&point=FF8A3D&area=true&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GodHercules&show_icons=true&theme=github_dark&hide_border=true&title_color=1146DD&icon_color=FF8A3D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodHercules&layout=compact&theme=github_dark&hide_border=true&title_color=1146DD" />
 
 </div>
 
